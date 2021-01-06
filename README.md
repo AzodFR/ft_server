@@ -12,7 +12,7 @@
 
 ## Mandatory
 
-| Debien Buster | Wordpress | PhpMyAdmin | SSL | MySQL | Autoindex on/off |
+| Debian Buster | Wordpress | PhpMyAdmin | SSL | MySQL | Autoindex on/off |
 |----|----|----|----|----|----|
 | OK | OK | OK | OK | OK | OK |
 
